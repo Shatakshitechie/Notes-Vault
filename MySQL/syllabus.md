@@ -3,12 +3,11 @@
 A structured path from beginner to advanced SQL.
 
 ## 1. Introduction to SQL & Databases
-*Covered: Data & its types, Database, Database Management, DBMS vs RDBMS, and MySQL basics.*
-
-- What is a database, RDBMS vs NoSQL
-- SQL vs MySQL/PostgreSQL/SQLite (language vs tools)
-- Setting up a database (installing MySQL/PostgreSQL, or using SQLite)
-- Basic terminology: tables, rows, columns, schema, primary key
+- What is Data (types, preprocessing)
+- What is a Database (why we need it, types: relational vs non-relational)
+- Database Management (storage, retrieval, update, security, backup)
+- DBMS (types, RDBMS, DBMS vs RDBMS)
+- MySQL (key features, setup)
 
 ## 2. Basic Queries
 - `SELECT`, `FROM`, `WHERE`
